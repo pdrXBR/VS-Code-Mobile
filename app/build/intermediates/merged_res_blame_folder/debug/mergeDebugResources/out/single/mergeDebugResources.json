@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.vscodemobile.app-debug-34:/menu_main_menu.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/layout_activity_editor.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/layout/activity_editor.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/drawable_ic_search.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/layout_terminal_overlay.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/layout/terminal_overlay.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/layout_file_explorer.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/layout/file_explorer.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/drawable_ic_ai.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/drawable/ic_ai.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/drawable_placeholder.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/drawable/placeholder.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/drawable_ic_run.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/drawable/ic_run.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/drawable_ic_explorer.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/drawable/ic_explorer.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-debug-34:/drawable_ic_menu.xml.flat",
+        "source": "com.vscodemobile.app-main-36:/drawable/ic_menu.xml"
+    }
+]

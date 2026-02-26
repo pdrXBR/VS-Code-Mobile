@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.vscodemobile.app-mergeDebugResources-33:/layout/activity_editor.xml",
+        "source": "com.vscodemobile.app-main-36:/layout/activity_editor.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-mergeDebugResources-33:/layout/terminal_overlay.xml",
+        "source": "com.vscodemobile.app-main-36:/layout/terminal_overlay.xml"
+    },
+    {
+        "merged": "com.vscodemobile.app-mergeDebugResources-33:/layout/file_explorer.xml",
+        "source": "com.vscodemobile.app-main-36:/layout/file_explorer.xml"
+    }
+]

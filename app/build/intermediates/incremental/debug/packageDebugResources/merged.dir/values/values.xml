@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentColor">#FFC107</color>
+    <color name="explorerBackground">#F5F5F5</color>
+    <color name="primaryColor">#1976D2</color>
+    <color name="primaryDarkColor">#004BA0</color>
+    <color name="terminalBackground">#1E1E1E</color>
+    <color name="terminalText">#F0F0F0</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <string name="ai">IA</string>
+    <string name="app_name">VSCodeMobile 1.0</string>
+    <string name="explorer">Explorador</string>
+    <string name="run">Executar</string>
+    <string name="search">Pesquisar</string>
+    <string name="search_files">Pesquisar arquivos…</string>
+    <string name="terminal">Terminal</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:windowBackground">@color/explorerBackground</item>
+    </style>
+</resources>
