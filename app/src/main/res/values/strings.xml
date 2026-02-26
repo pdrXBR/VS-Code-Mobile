@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VSCodeMobile 1.0</string>
+    <string name="run">Executar</string>
+    <string name="ai">IA</string>
+    <string name="search">Pesquisar</string>
+    <string name="explorer">Explorador</string>
+    <string name="terminal">Terminal</string>
+    <string name="search_files">Pesquisar arquivos…</string>
+</resources>
