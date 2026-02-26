@@ -15,18 +15,17 @@ jobs:
       - name: 📥 Checkout do código
         uses: actions/checkout@v4
 
-      - name: ☕ Configurar JDK 8
+      - name: ☕ Configurar JDK 17
         uses: actions/setup-java@v3
         with:
           distribution: 'temurin'
-          java-version: '8'
+          java-version: '17'
 
       - name: 📱 Configurar Android SDK
         uses: android-actions/setup-android@v3
         with:
-          api-level: 34
-          build-tools: 34.0.0
-          target: android-34
+          cmdline-tools-version: '12.0.1'
+          accept-android-sdk-licenses: true
 
       - name: 🔧 Dar permissão de execução ao gradlew
         run: chmod +x gradlew
